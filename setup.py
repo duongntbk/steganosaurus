@@ -17,7 +17,7 @@ with open('README.md', 'r') as fh:
 
 setup(
    name='steganosaurus',
-   version='1.0',
+   version='1.0.1',
    description='Hide data into image file',
    author='Nguyen Thai Duong',
    author_email='duongnt.bk@gmail.com',
