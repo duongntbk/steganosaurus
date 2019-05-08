@@ -4,7 +4,7 @@ This is a simple library to hide data into image file (Steganography) for Python
 
 ## Install
 
-You can install passpwnedcheck using pip, just run the following command in the command line
+You can install steganosaurus using pip, just run the following command in the command line
 
     C:\> pip install steganosaurus
 
